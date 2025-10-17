@@ -34,7 +34,7 @@ Artifacts:
 ## Run
 
 ```bash
-./so_long maps/map1.ber
+./so_long maps/map5.ber
 ```
 
 You can try any of the sample maps under `maps/` (e.g., `map1.ber`, `map5.ber`, `pacman.ber`).
